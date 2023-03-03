@@ -1,0 +1,5 @@
+from
+NOT from
+analyst
+NOT analyst
+NOT from AND NOT analyst
